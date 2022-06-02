@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T07:49:50.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="XBPEJDxmM29BcE_yvWQ2" version="18.0.7" type="github"><diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">7ZpLc5swEMc/jY/xIMTLRz/yOKQznUmnPcsggyZCoiBip5++WhA2WM7UhzhxpnCwpZXYFfv7GyThCV7mu/uSFNk3mVA+cZ1kN8Griesiz4n0F1heW0voGUNassR0Ohie2B9qjI6x1iyh1aCjkpIrVgyNsRSCxmpgI2Upt8NuG8mHUQuSUsvwFBNuW3+xRGXGihzn0PBAWZqZ0JFvGtYkfk5LWQsTT0hB25acdG5M1yojidz2TPh2gpellKot5bsl5ZDWLmPteXdvtO6HXFKhzjkhjDEJUBihMPbjDfZvUNC6eCG8NnkwI1WvXWIylXNdQhO82I/f0ZWEVBlNTIVwlgpdjvVIaKkNL7RUTGd3bhpyliTgEXwU4DnfpSCkacvObb/BLejHmQZQBHF5TSxWauZMgichS0jrQkgVZyZ8pUr5vOem87rYMM6XksuyuQi8bA6wS6GM+JBn6r1+TnPsPXYtDVO8sPNtEMDV0l3PZPJ/T2VOVfmqu5jWELdnmF+JP/Pb+ranucDIJevJrbMRI/N07/nAWxcM8jPxexZ910GhpYCO5SNZU/5dVsyQWEulZH4CtpKFtg6FM4DOxEY2JRZPQVQ0WdZryDCr5FykTWDk2xiRE+LZ7Vt4gOUdyRmH5D5Q/kJhVEPo7km12vp5B9SzIWrPO4HaPYEaoUuwDk+xjq6Y9Z1OIPoqrC3Y6FzY3iVgR6dgz64Y9vzWQ9j9IrC9I9g4OBf27BKwZydg72cc1wjbxfpeuPoisIMj2HpiO531j/PQu9El0HdPiiF7dMXskTufL/wvwj46Yo+iIfsoOA8+Di8CH1nwJ27AFYDTTUEKpQdKEibSrkEHObR1xqIzPMqS5hCyqGr4Tho6WklMweD1kCfusl2DVXo+TlUNrTpAwSoWN2EcypnpVenVAfgAI6urXEJV0bxofDIRs4QltQDXNXxwstbxobfqYtNmFZUKAmE4+12Tae9KisOFHOld81VH+i1IM0C88g+1H6Dy1U2jqG3GFH3SdnCx1crWNqmlsuHNiifT6xcq/rnUMDrWv4yE0cPKoifv/uLDUvE7aLab0xnJBr79bHLDD5uIIHfU6KhRa7bczY67Z6rzuSLFo0hHkVqz/G7BdCV3UnuzZhTpfy/S6MpE6o8iHUVqLaHR0ab352rU3hyzYI3vPN7znYcXekP+n/rSA9n7ZSP/i/KProq/a++Zjfzf5r/hrPhpcvEeS79wuPTD3T3+c7Rwagtt1MIHaSE4ehmOLnhf0NXD/yyatt7/WPDtXw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-02T08:00:39.181Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36 Edg/100.0.1185.29" etag="GtupIZm8x1JK58NmGvXM" version="18.0.7" type="github">
+  <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
+    <mxGraphModel dx="1422" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7c3a617817c5cf35-7" value="15%" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#F2931E;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="293" y="415" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-8" value="15%" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#AE4132;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="493" y="400" width="120" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-9" value="35%" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#23445D;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="693" y="274.9999999999999" width="120" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-10" value="2021" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.infographic.shadedCube;isoAngle=15;fillColor=#12AAB5;strokeColor=none;fontFamily=Helvetica;fontSize=20;align=center;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="893" y="184.99999999999986" width="120" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-12" value="&lt;h1&gt;专利授权费&lt;/h1&gt;&lt;p style=&quot;font-size: 15px;&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span&gt;收取科研院专利支持费&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;提供后续软件系统的优化升级&lt;br&gt;&lt;/font&gt;&lt;/span&gt;&lt;p&gt;.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="223" y="210" width="270" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-13" value="&lt;h1&gt;教育研学活动费&lt;/h1&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span&gt;餐饮、住宿、交通、师资收费&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span&gt;主题活动教学资料收费&lt;/span&gt;&lt;span lang=&quot;EN-US&quot;&gt;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;MsoListParagraph&quot;&gt;&lt;span&gt;&lt;span style=&quot;&quot;&gt;医疗保险收费&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="419" y="655" width="251" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-14" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="819" y="655" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-15" value="&lt;h1&gt;PC端斜视软件租赁&lt;/h1&gt;&lt;p&gt;出租软件系统服务使用权&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;提供系统的软件使用培训教程&lt;/span&gt;.&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeWidth=2;fillColor=none;gradientColor=none;fontSize=14;align=center;" parent="1" vertex="1">
+          <mxGeometry x="588" y="70" width="330" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="474" y="595" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-19" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="874" y="595" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-20" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="340" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7c3a617817c5cf35-21" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;strokeWidth=2;fillColor=#CCCCCC;fontSize=14;fontColor=#000000;strokeColor=none;flipV=1;" parent="1" vertex="1">
+          <mxGeometry x="673" y="195" width="160" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
